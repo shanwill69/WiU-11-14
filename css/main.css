@@ -30,7 +30,7 @@ h2{
 }
 /*-------------------------------------------  table -------------------------------------------------------*/
 table{
-	background: #fff;  /*changes color of the background of the table*/
+	background: #f7f7f9;  /*changes color of the background of the table*/
 	border-collapse: collapse;
 	width: 100%;
 }
@@ -78,7 +78,7 @@ td:first-child{
 
 }
 figure img{
-	width: 25%;
+	width: 100%;
 }
 .sec{
 	clear: both;
